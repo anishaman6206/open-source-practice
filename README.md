@@ -67,6 +67,8 @@ Pick **one task**, complete it, and raise a PR!
 3. Find and fix the typo (hint: look carefully at every sentence!)
 4. Open a Pull Request with the title: `fix: correct typo in about.md`
 
+⚠️ Before starting, comment on the linked issue saying "I'd like to work on this!" and wait for a maintainer to assign it to you.
+
 ---
 
 ### 💡 Task List — Add a Fun Fact
