@@ -1,8 +1,8 @@
 # About This Project
 
-## What is Open Sorce?
+## What is Open Source?
 
-Open source software is code that is made freely available for anyone to use, modify, and distribut. The source code is published publicly, and people around the world colaborate to improve it.
+Open source software is code that is made freely available for anyone to use, modify, and distribute. The source code is published publicly, and people around the world collaborate to improve it.
 
 ## Why Contribute to Open Source?
 
