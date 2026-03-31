@@ -105,6 +105,7 @@ Pick **one task**, complete it, and raise a PR!
 | Ada Lovelace | @ada | Added this table 😄 |
 
 <!-- Add your row below this line -->
+| Rupneel | Rupneel | Added this table  |
 
 ---
 
